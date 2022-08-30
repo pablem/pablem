@@ -1,2 +1,2 @@
 #   Hello 👋 
-##  my name is Pablo, i'm Electronic Engineer in training and Programmer
+##  my name is Pablo, I'm Electronics Engineer in training and Programmer
